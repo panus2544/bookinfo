@@ -1,12 +1,12 @@
-# Bookinfo Rating Service
+# Bookinfo Details Service
 
-Rating service has been developed on NodeJS
+Details service has been developed on NodeJS
 
 
 ## How to run with Docker
 
 ```bash
-# Build Docker Image for rating service
+# Build Docker Image for Details service
 docker build -t bookinfo .
 
 # Run MongoDB with initial data in database
